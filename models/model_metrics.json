@@ -1,0 +1,25 @@
+{
+  "train_mae": 6.775000587484194,
+  "test_mae": 12.656694990005192,
+  "train_r2": 0.9746016586588394,
+  "test_r2": 0.9200264053130082,
+  "feature_importance": [
+    {
+      "feature": "temperature",
+      "importance": 0.7849012642041049
+    },
+    {
+      "feature": "pressure",
+      "importance": 0.1682001837466693
+    },
+    {
+      "feature": "vibration",
+      "importance": 0.030581161653804565
+    },
+    {
+      "feature": "efficiency",
+      "importance": 0.016317390395421367
+    }
+  ],
+  "training_date": "2025-06-12 17:11:13"
+}
