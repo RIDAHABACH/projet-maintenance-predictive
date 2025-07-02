@@ -42,7 +42,7 @@ Ce qui m'a surpris, c'est que la température domine vraiment la prédiction. Te
 ### Installation
 ```bash
 # Cloner le projet
-git clone https://github.com/votre-nom/maintenance-predictive-tesla
+git clone https://github.com/RIDAHABACH/projet-maintenance-predictive.git
 cd maintenance-predictive-tesla
 
 # Installer les dépendances
