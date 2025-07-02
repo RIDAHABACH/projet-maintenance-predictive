@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.9+-blue.svg)](https://python.org)
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)](https://scikit-learn.org)
-
+[![Streamlit App](https://img.shields.io/badge/voir-app--web-green?logo=streamlit)](https://projet-maintenance-predictive.streamlit.app/)
 > *"Si vous voulez trouver les secrets de l'univers, pensez en termes d'énergie, de fréquence, d'information et de vibration."* - Nikola Tesla
 
 ## À Propos de Ce Projet
@@ -11,6 +11,9 @@ J'ai toujours été fasciné par l'idée que les machines "parlent" avant de tom
 
 L'inspiration vient du framework de Tesla sur les 4 dimensions fondamentales de l'énergie. J'ai appliqué cette vision à l'analyse de données industrielles, et les résultats sont plutôt encourageants !
 
+## Démo en Ligne
+
+Vous pouvez tester l'application Streamlit ici 👉 [Projet Maintenance Prédictive - Application Web](https://projet-maintenance-predictive.streamlit.app/)
 ## Ce que j'ai Obtenu
 
 Les performances sont honnêtement meilleures que ce que j'espérais au début :
